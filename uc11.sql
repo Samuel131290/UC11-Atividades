@@ -1,0 +1,12 @@
+CREATE DATABASE uc11;
+USE uc11;
+
+CREATE TABLE produtos
+(
+	ID INT PRIMARY KEY AUTO_INCREMENT,
+	Nome VARCHAR(100),
+    Valor VARCHAR(10),
+	Status VARCHAR(10)
+);
+
+SELECT * FROM produtos;
