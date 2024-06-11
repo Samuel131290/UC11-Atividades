@@ -15,5 +15,5 @@ Este repositório contém o projeto desenvolvido na etapa anterior, com adiçõe
 - MySQL.
 
 ## COMO EXECUTAR O PROGRAMA?
-Para executar corretamente o programa, deve-se primeiramente criar o Banco de Dados à partir do arquivo 'uc11'.
-Após a criação do BD, executar o atalho 'LeiloesTDSat'.
+- Para executar corretamente o programa, deve-se primeiramente criar o Banco de Dados à partir do arquivo 'uc11'.
+- Após a criação do BD, executar o atalho 'LeiloesTDSat'.
